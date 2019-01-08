@@ -1,0 +1,12 @@
+*.pyc
+.vscode/
+.cache
+test/.cache
+test/__pycache__
+*.bak
+.DS_Store
+.idea
+.coverage
+venv
+coverage.xml
+htmlcov/
